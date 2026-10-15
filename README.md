@@ -23,6 +23,12 @@ This repository contains portfolio artifacts and coursework completed for CS 230
 ## Portfolio Artifacts
 This repository contains portfolio artifacts and coursework completed during CS 230 Operating Platforms.
 
+**Featured Project — The Gaming Room Software Design (Version 4.0)**
+
+[View Software Design Document (PDF)](CS%20230%20Project%20Software%20Design_V4.pdf)
+
+This portfolio edition presents a proposed cross-platform gaming application architecture, including UML modeling, operating-system comparisons, Linux server recommendations, distributed systems, and security considerations.
+
 # The Gaming Room Project Reflection
 
 ## Client and Requirements
